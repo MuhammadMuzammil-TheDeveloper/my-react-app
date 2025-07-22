@@ -1,4 +1,5 @@
 import { FaLongArrowAltRight } from "react-icons/fa";
+import heroImage from "../assets/image.jpeg"; 
 
 export const HeroSection = () => {
   return (
@@ -18,10 +19,9 @@ export const HeroSection = () => {
         </div>
         <div className="hero-image">
           <img
-            src="src\assets\image.jpeg"
+            src={heroImage}
             alt="world is beauty"
             className="banner-image"
-            
           />
         </div>
       </div>
