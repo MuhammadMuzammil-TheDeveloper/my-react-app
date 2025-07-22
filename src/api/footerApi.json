@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Korangi, Karachi"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "923176442334"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "muzammil.thedevloper@gmail.com"
+  }
+]
