@@ -18,7 +18,7 @@ export const HeroSection = () => {
         </div>
         <div className="hero-image">
           <img
-            src="src\assets\image.jpeg.jpeg"
+            src="src\assets\image.jpeg"
             alt="world is beauty"
             className="banner-image"
             
