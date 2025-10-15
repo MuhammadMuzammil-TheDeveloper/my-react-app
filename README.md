@@ -50,6 +50,10 @@ Make sure you have:
 - **Git**
 
 ---
+# 🌍 WorldAtlas — Global Country Data Explorer
+
+![WorldAtlas Homepage Preview](<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/c05bba46-1dd9-40fe-8b64-40e0f591f2c9" />
+)
 
 ## 🚀 Installation & Local Setup  
 
