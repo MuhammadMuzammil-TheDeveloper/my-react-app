@@ -51,9 +51,8 @@ Make sure you have:
 
 ---
 # 🌍 WorldAtlas — Global Country Data Explorer
+<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/87b2ea65-b792-4be4-97e6-fa7794158ed3" />
 
-![WorldAtlas Homepage Preview](<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/c05bba46-1dd9-40fe-8b64-40e0f591f2c9" />
-)
 
 ## 🚀 Installation & Local Setup  
 
